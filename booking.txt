@@ -1,0 +1,51 @@
+Flight ID: 334
+Booking Type: Business
+-----------------------------
+Flight ID: 333
+Booking Type: Business
+-----------------------------
+Flight ID: 334
+Booking Type: Business
+-----------------------------
+Flight ID: 334
+Booking Type: Business
+-----------------------------
+Flight ID: 334
+Booking Type: Business
+-----------------------------
+Flight ID: 336
+Booking Type: Business
+-----------------------------
+Flight ID: 335
+Booking Type: Business
+-----------------------------
+Flight ID: 332
+Booking Type: Business
+-----------------------------
+Flight ID: 332
+Booking Type: Business
+-----------------------------
+Flight ID: 334
+Booking Type: Business
+-----------------------------
+Flight ID: 336
+Booking Type: Business
+-----------------------------
+Flight ID: 336
+Booking Type: Business
+-----------------------------
+Flight ID: 336
+Booking Type: Business
+-----------------------------
+Flight ID: 336
+Booking Type: Business
+-----------------------------
+Flight ID: 334
+Booking Type: Business
+-----------------------------
+Flight ID: 334
+Booking Type: Business
+-----------------------------
+Flight ID: 336
+Booking Type: Business
+-----------------------------
